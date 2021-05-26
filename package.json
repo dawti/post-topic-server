@@ -1,0 +1,25 @@
+{
+  "name": "onemic",
+  "version": "1.0.0",
+  "description": "connect react frontend of onemic to daatabase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawti/post-topic-server.git"
+  },
+  "author": "dawtie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawti/post-topic-server/issues"
+  },
+  "homepage": "https://github.com/dawti/post-topic-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  }
+}
