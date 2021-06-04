@@ -3,7 +3,7 @@
 
 1.Run 'npm init' on terminal
 
-2. Install npm dependencies and dev-dependencies- 
+2. Install npm dependencies and dev-dependencies=>
   npm install --save-dev sequelize-cli
   npm install --save sequelize       
   npm install pg pg-hstore --save  
